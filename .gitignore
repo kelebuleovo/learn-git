@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 我的自定义规则
+scratch/
+*.tmp
+!important.tmp
