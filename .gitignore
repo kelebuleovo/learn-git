@@ -226,3 +226,5 @@ __marimo__/
 scratch/
 *.tmp
 !important.tmp
+
+tracked.log
